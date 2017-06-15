@@ -1,0 +1,29 @@
+{
+  "name": "wolkenkit-box-esvalidator",
+  "version": "0.0.0",
+  "description": "wolkenkit-box-esvalidator validates JavaScript files syntactically.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Matthias Wagler",
+      "email": "matthias.wagler@thenativeweb.io"
+    },
+    {
+      "name": "Christian Nolte",
+      "email": "christian.nolte@thenativeweb.io"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "roboter": "0.15.2",
+    "roboter-server": "0.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/wolkenkit-box-esvalidator.git"
+  },
+  "license": "AGPL-3.0"
+}

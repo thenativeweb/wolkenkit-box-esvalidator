@@ -1,0 +1,14 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {}
+  },
+
+  "env": {
+    "node": true
+  },
+
+  "rules": {
+    "no-undef": 2
+  }
+}
