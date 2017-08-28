@@ -6,7 +6,7 @@ wolkenkit-box-esvalidator validates JavaScript files syntactically.
 
 This box can be built using [roboter](https://github.com/thenativeweb/roboter). For that, go to the folder where you have installed wolkenkit-box-esvalidator and run the following command.
 
-```
+```shell
 $ bot build
 ```
 
