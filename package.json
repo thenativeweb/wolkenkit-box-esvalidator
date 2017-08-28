@@ -1,6 +1,6 @@
 {
   "name": "wolkenkit-box-esvalidator",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "wolkenkit-box-esvalidator validates JavaScript files syntactically.",
   "contributors": [
     {
